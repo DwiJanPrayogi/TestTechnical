@@ -1,0 +1,90 @@
+﻿@using BPKB_APP.wwwroot.DTO
+@model dynamic
+@{
+    ViewData["Title"] = "Add BPKB";
+}
+
+
+<form method="post" asp-action="Create">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Agreement Number</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" name="test1" placeholder="Input Agreement Number">
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="form-group">
+                    <label for="inputPassword3">Tanggal Faktur</label>
+                    <input id="datepicker" class="form-control" name="test2" placeholder="mm/dd/yyyy" type="date" />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Branch Id</label>
+                    <input type="text" class="form-control" name="test3" id="exampleInputPassword1" placeholder="Input Branch Id">
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="form-group">
+                    <label for="exampleInputPassword1">Nomor Polisi</label>
+                    <input type="text" class="form-control" name="test4" id="exampleInputPassword1" placeholder="Input Nomor Polisi">
+                </div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-sm">
+                <div class="form-group">
+                    <label for="exampleInputPassword1">No. BPKB</label>
+                    <input type="text" class="form-control" name="test5" id="exampleInputPassword1" placeholder="Input No BPKB">
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="form-group">
+                    <label for="exampleFormControlSelect1">Lokasi Penyimpanan </label>
+                    <select class="form-control" id="exampleFormControlSelect1" name="test6">
+                        @foreach (var item in Model.location)
+                        {
+                            <option value="@item.location_id">@item.location_name</option>
+                        }
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-6">
+                <div class="form-group">
+                    <label for="inputPassword3">Tanggal BPKB In</label>
+                    <input id="datepicker1" class="form-control" name="test7" placeholder="mm/dd/yyyy" type="date" />
+                </div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-6">
+                <div class="form-group">
+                    <label for="inputPassword3">Tanggal BPKB</label>
+                    <input id="datepicker2" class="form-control" name="test8" placeholder="mm/dd/yyyy" type="date" />
+                </div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-6">
+                <div class="form-group">
+                    <label for="exampleInputPassword1">No Faktur</label>
+                    <input type="text" class="form-control" name="test9" id="exampleInputPassword1" placeholder="Input Nomor Faktur">
+                </div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col">
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="btn btn-danger btn-block">Cancel</a>
+            </div>
+            <div class="col">
+                <button type="submit" class="btn btn-success btn-block">Submit</button>
+            </div>
+        </div>
+    </div>
+</form>

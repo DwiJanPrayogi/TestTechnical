@@ -1,0 +1,44 @@
+1. 
+Primary Key :
+- NoKontrak
+- KodeCabang 
+- KodeMotor
+Foreign Key:
+- KodeCabang
+- KodeMotor
+
+2.
+ SELECT * FROM TabelPembayaran 
+ WGERE date = '20141020' 
+
+3. 
+INSERT INTO Cabang
+VALUES (200, Tangerang);
+
+4.
+UPDATE TabelPembayaran
+SET TabelPembayaran.KodeMotor = '001',
+FROM TabelPembayaran
+JOIN Cabang ON TabelPembayaran.KodeCabang = Cabang.KodeCabang
+WHERE Cabang.NamaCabang = 'Jakarta';
+
+5.
+SELECT *
+FROM TabelPembayaran
+LEFT JOIN Motor
+ON TabelPembayaran.KodeMotor = Motor.KodeMotor;
+LEFT JOIN Cabang
+ON TabelPembayaran.KodeCabang = Cabang.KodeCabang;
+
+6. 
+SELECT Cabang.KodeCabang, Cabang.NamaCabang, TabelPembayaran.NoKontrak, TabelPembayaran.NoKwitansi
+FROM Cabang
+LEFT JOIN TabelPembayaran
+ON Cabang.KodeCabang = TabelPembayaran.KodeCabang;
+
+7.
+SELECT Cabang.KodeCabang, Cabang.NamaCabang, COUNT(*) AS TotalData, SUM(TabelPembayaran.JumlahBayar) as TotalBayar
+FROM Cabang
+LEFT JOIN TabelPembayaran
+ON Cabang.KodeCabang = TabelPembayaran.KodeCabang
+GROUP BY Cabang.KodeCabang;

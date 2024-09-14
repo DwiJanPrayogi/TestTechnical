@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\wwwroot\\dto\\bpkbinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\wwwroot\\dto\\bpkbinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\views\\home\\addbpkb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\views\\home\\addbpkb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\wwwroot\\dto\\bpkbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\wwwroot\\dto\\bpkbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|c:\\users\\pc\\source\\repos\\bpkb-app\\bpkb-app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2FF97B7A-6130-469A-B282-59B39907F635}|BPKB-APP\\BPKB-APP.csproj|solutionrelative:bpkb-app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BPKB-APP\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BPKB-APP\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:38:11.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BPKB-APP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BPKB-APP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T04:24:58.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BPKB-APP\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BPKB-APP\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-14T04:29:44.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "BPKB-APP\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "BPKB-APP\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T23:42:42.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BPKB-APP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BPKB-APP\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:42:08.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BPKB-APP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BPKB-APP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T23:41:24.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBpkb.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Views\\Home\\AddBpkb.cshtml",
+              "RelativeDocumentMoniker": "BPKB-APP\\Views\\Home\\AddBpkb.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\Views\\Home\\AddBpkb.cshtml",
+              "RelativeToolTip": "BPKB-APP\\Views\\Home\\AddBpkb.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T06:29:15.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BpkbInputDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\wwwroot\\DTO\\BpkbInputDTO.cs",
+              "RelativeDocumentMoniker": "BPKB-APP\\wwwroot\\DTO\\BpkbInputDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\wwwroot\\DTO\\BpkbInputDTO.cs",
+              "RelativeToolTip": "BPKB-APP\\wwwroot\\DTO\\BpkbInputDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:02:23.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BpkbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\wwwroot\\DTO\\BpkbDTO.cs",
+              "RelativeDocumentMoniker": "BPKB-APP\\wwwroot\\DTO\\BpkbDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BPKB-APP\\BPKB-APP\\wwwroot\\DTO\\BpkbDTO.cs",
+              "RelativeToolTip": "BPKB-APP\\wwwroot\\DTO\\BpkbDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:49:54.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

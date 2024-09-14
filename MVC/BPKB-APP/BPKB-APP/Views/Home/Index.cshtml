@@ -1,0 +1,62 @@
+﻿@using BPKB_APP.wwwroot.DTO
+@model IEnumerable<BpkbDTO>;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table id="example" class="table cell-border table-hover" style="width:100%">
+    <thead>
+        <tr>
+            <th>Agreement Number</th>
+            <th>No BPKB</th>
+            <th>Branch Id</th>
+            <th>Tanggal BPKB</th>
+            <th>No Faktur</th>
+            <th>No Polisi</th>
+            <th>Tanggal BPKB Masuk</th>
+            <th>Id Lokasi</th>
+            <th>Lokasi</th>
+            <th>Dibuat Oleh</th>
+            <th>Dibuat Pada Tanggal</th>
+            <th>Update Terakhit Oleh</th>
+            <th>Update Terakhir Tanggal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.agreement_number</td>
+                <td>@item.bpkb_no</td>
+                <td>@item.branch_id</td>
+                <td>@item.bpkb_date</td>
+                <td>@item.faktur_no</td>
+                <td>@item.police_no</td>
+                <td>@item.bpkb_date_in</td>
+                <td>@item.location.location_id</td>
+                <td>@item.location.location_name</td>
+                <td>@item.created_by</td>
+                <td>@item.created_on</td>
+                <td>@item.last_updated_by</td>
+                <td>@item.last_updated_on</td>
+            </tr>
+        } 
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>Agreement Number</th>
+            <th>No BPKB</th>
+            <th>Branch Id</th>
+            <th>Tanggal BPKB</th>
+            <th>No Faktur</th>
+            <th>No Polisi</th>
+            <th>Tanggal BPKB Masuk</th>
+            <th>Id Lokasi</th>
+            <th>Lokasi</th>
+            <th>Dibuat Oleh</th>
+            <th>Dibuat Pada Tanggal</th>
+            <th>Update Terakhit Oleh</th>
+            <th>Update Terakhir Tanggal</th>
+        </tr>
+    </tfoot>
+</table>
